@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kt-redux/static/css/main.a5331178.css",
+    "main.js": "/kt-redux/static/js/main.a1ee7d18.js",
+    "index.html": "/kt-redux/index.html",
+    "main.a5331178.css.map": "/kt-redux/static/css/main.a5331178.css.map",
+    "main.a1ee7d18.js.map": "/kt-redux/static/js/main.a1ee7d18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5331178.css",
+    "static/js/main.a1ee7d18.js"
+  ]
+}
